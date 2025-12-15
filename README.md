@@ -5,7 +5,7 @@ I’m a soon-to-be Masters computer science student and aspiring full-stack deve
 I enjoy building practical applications and learning by doing.
 
 ## 🚧 What I’m currently working on
-- An **NFT minting web project**
+- **Scraping the web using Apify**
 - Improving my **full-stack skills**
 - Learning new tools used in real-world production apps
 
