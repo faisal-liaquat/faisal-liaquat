@@ -5,7 +5,8 @@ I’m a soon-to-be Masters computer science student and aspiring full-stack deve
 I enjoy building practical applications and learning by doing.
 
 ## 🚧 What I’m currently working on
-- **Automated Web Scraping Project using Apify**
+- **Working on a web scraping project to scour the internet for inspirational software**
+- **Creating a minimalist budget tracking application**
 - Improving my **full-stack skills**
 - Learning new tools used in real-world production apps
 
