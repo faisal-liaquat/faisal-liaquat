@@ -24,12 +24,6 @@ I enjoy building practical applications and learning by doing.
 
 ---
 
-## 📈 GitHub Stats
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-liaquat&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 
 
