@@ -6,13 +6,14 @@ I enjoy building practical applications and learning by doing.
 
 ## 🚧 What I’m currently working on
 - **Working on a web scraping project to scour the internet for inspirational software**
-- **Creating a minimalist budget tracking application**
+- **Creating a personal website as a portfolio**
 - Improving my **full-stack skills**
 - Learning new tools used in real-world production apps
 
 ## Notable Projects 
 - [ClearBooks - Online Bookkeeping Web App for Small Businesses](https://github.com/faisal-liaquat/ClearBooks)
 - [FootballAnalysisSystem - YOLOv8 Tracking](https://github.com/faisal-liaquat/FootballAnalysisSystem)
+- [PennyWise - Budget Tracking Web App](https://github.com/faisal-liaquat/pennywise)
 
 ## Languages
 
