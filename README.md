@@ -6,7 +6,7 @@ I enjoy building practical applications and learning by doing.
 
 ## 🚧 What I’m currently working on
 - **Working on a web scraping project to scour the internet for inspirational software**
-- **Creating a personal website as a portfolio**
+- **A Digital Exhibition Builder for Artists/Curators**
 - Improving my **full-stack skills**
 - Learning new tools used in real-world production apps
 
